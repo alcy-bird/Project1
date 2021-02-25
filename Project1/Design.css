@@ -1,0 +1,30 @@
+﻿.divs {
+    margin-left:300px;
+    width:700px;
+    height:30px;
+}
+.slider{
+    height:150px;
+    width:700px;
+    margin-left:300px;
+}
+.color{
+    background-color:#fff;
+}
+.a:link{
+    text-decoration:none;
+    font-size: 14px;
+    font-family:'Segoe UI';
+    font-style:normal;
+}
+.a:hover{
+    font-size:18px;
+    color:burlywood;
+
+}
+.tb{
+    border:2px solid #456789;
+    border-radius: 20px;
+    height: 22px;
+    width:230px;
+}
